@@ -1,0 +1,31 @@
+﻿!trail file version No. 1960
+!Creo  TM  7.0  (c) 2022 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 16300
+!	Application: Creo_Parametric
+!	Start date&time: 2022/10/14  18:37:02
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 7.0.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: U:\Documents\GrabCAD\Spaceshot\components\traceback.log
+!end Exit Logger data.
+< 0 1.220741 1795 0 0 1030 1920 0 0 1080 13
+!mem_use INCREASE Blocks 862620, AppSize 15037747, SysSize 31557680
+< 0 0.992000 1650 0 0 837 1920 0 0 1080 13
+< 0 0.992000 1485 0 0 837 1920 0 0 1080 13
+< 0 0.990815 1485 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1501 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1517 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1533 0 0 836 1920 0 0 1080 13
+!%CIWelcome to Creo Parametric 7.0.0.0.
+~ Activate `msglist` `Ok`
+! Message Dialog: Warning
+!               : AFX failed to load.
+~ Activate `UI Message Dialog` `ok`
+!mem_use INCREASE Blocks 924004, AppSize 45942047, SysSize 62952328
+! Message Dialog: Warning
+!               : IFX failed to load.
+~ Activate `UI Message Dialog` `ok`
+!End of Trail File

@@ -1,0 +1,250 @@
+﻿UG to STEP
+! INFO-     NX STEP AP242 - V1926
+! INFO-      
+! INFO-     Start of Translation: 9-FEB-2022  6:08:18 PM
+! INFO-      
+! STATUS-   Converting Part: U:\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\cots-altimeter-mount-assembly\components\cots-altimeter-mount_L-bracket.prt
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 9-FEB-2022 6:08:18 PM
+! STATUS-    
+! ERROR-     
+! ERROR-    Unregistered code: 11526 
+! ERROR-     
+! INFO-           Summary of STEP Entities 
+! INFO-      
+! INFO-     Entity Type                                                   Count 
+! INFO-     -----------                                                   ------ 
+! INFO-     advanced_brep_shape_representation .......................:   1 
+! INFO-     advanced_face ............................................:   121 
+! INFO-     application_context ......................................:   1 
+! INFO-     application_protocol_definition ..........................:   1 
+! INFO-     axis2_placement_3d .......................................:   335 
+! INFO-     b_spline_curve_with_knots ................................:   12 
+! INFO-     camera_model_d3 ..........................................:   8 
+! INFO-     cartesian_point ..........................................:   1049 
+! INFO-     circle ...................................................:   197 
+! INFO-     closed_shell .............................................:   1 
+! INFO-     colour_rgb ...............................................:   5 
+! INFO-     curve_style ..............................................:   242 
+! INFO-     cylindrical_surface ......................................:   54 
+! INFO-     degenerate_toroidal_surface ..............................:   2 
+! INFO-     direction ................................................:   1037 
+! INFO-     draughting_model .........................................:   9 
+! INFO-     draughting_pre_defined_curve_font ........................:   242 
+! INFO-     edge_curve ...............................................:   350 
+! INFO-     edge_loop ................................................:   152 
+! INFO-     face_bound ...............................................:   152 
+! INFO-     fill_area_style ..........................................:   1 
+! INFO-     fill_area_style_colour ...................................:   1 
+! INFO-     geometrically_bounded_wireframe_shape_representation .....:   1 
+! INFO-     geometric_curve_set ......................................:   91 
+! INFO-     geometric_representation_context_and_global_uncertainty_a :   1 
+! INFO-     length_unit_and_si_unit ..................................:   1 
+! INFO-     line .....................................................:   383 
+! INFO-     manifold_solid_brep ......................................:   1 
+! INFO-     mapped_item ..............................................:   9 
+! INFO-     mechanical_design_and_draughting_relationship ............:   8 
+! INFO-     mechanical_design_geometric_presentation_representation ..:   1 
+! INFO-     oriented_edge ............................................:   700 
+! INFO-     planar_box ...............................................:   8 
+! INFO-     plane ....................................................:   59 
+! INFO-     plane_angle_unit_and_si_unit .............................:   1 
+! INFO-     presentation_style_assignment ............................:   243 
+! INFO-     product ..................................................:   1 
+! INFO-     product_category .........................................:   1 
+! INFO-     product_context ..........................................:   1 
+! INFO-     product_definition .......................................:   1 
+! INFO-     product_definition_context ...............................:   1 
+! INFO-     product_definition_formation_with_specified_source .......:   1 
+! INFO-     product_definition_shape .................................:   1 
+! INFO-     product_related_product_category .........................:   1 
+! INFO-     representation_map .......................................:   9 
+! INFO-     shape_definition_representation ..........................:   1 
+! INFO-     shape_representation .....................................:   1 
+! INFO-     shape_representation_relationship ........................:   2 
+! INFO-     si_unit_and_solid_angle_unit .............................:   1 
+! INFO-     styled_item ..............................................:   243 
+! INFO-     surface_side_style .......................................:   1 
+! INFO-     surface_style_fill_area ..................................:   1 
+! INFO-     surface_style_usage ......................................:   1 
+! INFO-     toroidal_surface .........................................:   6 
+! INFO-     trimmed_curve ............................................:   242 
+! INFO-     uncertainty_measure_with_unit ............................:   1 
+! INFO-     vector ...................................................:   383 
+! INFO-     vertex_point .............................................:   234 
+! INFO-     view_volume ..............................................:   8 
+! INFO-                                                                  ------- 
+! INFO-     Total                                                         6622 
+! INFO-      
+! INFO-     End of Translation: 9-FEB-2022  6:08:23 PM
+! INFO-      
+UG to STEP
+! INFO-     NX STEP AP214 - V1926
+! INFO-      
+! INFO-     Start of Translation: 9-FEB-2022  10:33:42 PM
+! INFO-      
+! STATUS-   Converting Part: U:\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\cots-altimeter-mount-assembly\components\cots-altimeter-mount_L-bracket.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: U:\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\cots-altimeter-mount-assembly\components\cots-altimeter-mount_L-bracket.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     7
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             14
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 9-FEB-2022 10:33:44 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        cots-altimeter-mount_L-bracket.stp
+! SUMMARY-  Date             2022-02-09T22:33:44-06:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v16.7
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 1934
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        step_merged_cad_schema
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    123
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    246
+! SUMMARY-  b_spline_curve_with_knots ..................................:     12
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      2
+! SUMMARY-  cartesian_point ............................................:    886
+! SUMMARY-  circle .....................................................:    124
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:     56
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:    710
+! SUMMARY-  edge_curve .................................................:    354
+! SUMMARY-  edge_loop ..................................................:    160
+! SUMMARY-  face_bound .................................................:     53
+! SUMMARY-  face_outer_bound ...........................................:    107
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    218
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  oriented_edge ..............................................:    708
+! SUMMARY-  plane ......................................................:     59
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  toroidal_surface ...........................................:      6
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    218
+! SUMMARY-  vertex_point ...............................................:    238
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           4298
+! WARNING-  Convergent/Facet bodies are not processed.
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :       1
+! INFO-      
+! INFO-     Number of solids processed without problems        :       1
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 9-FEB-2022  10:33:44 PM
+! INFO-      
+UG to STEP
+! INFO-     NX STEP AP242 - V1926
+! INFO-      
+! INFO-     Start of Translation: 10-FEB-2022  5:34:31 PM
+! INFO-      
+! STATUS-   Converting Part: \\ad.uillinois.edu\engr-ews\adammc5\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\cots-altimeter-mount-assembly\components\cots-altimeter-mount_L-bracket.prt
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 10-FEB-2022 5:34:31 PM
+! STATUS-    
+! INFO-           Summary of STEP Entities 
+! INFO-      
+! INFO-     Entity Type                                                   Count 
+! INFO-     -----------                                                   ------ 
+! INFO-     advanced_brep_shape_representation .......................:   1 
+! INFO-     advanced_face ............................................:   114 
+! INFO-     application_context ......................................:   1 
+! INFO-     application_protocol_definition ..........................:   1 
+! INFO-     axis2_placement_3d .......................................:   243 
+! INFO-     b_spline_curve_with_knots ................................:   8 
+! INFO-     camera_model_d3 ..........................................:   8 
+! INFO-     cartesian_point ..........................................:   721 
+! INFO-     circle ...................................................:   112 
+! INFO-     closed_shell .............................................:   1 
+! INFO-     colour_rgb ...............................................:   1 
+! INFO-     cylindrical_surface ......................................:   54 
+! INFO-     degenerate_toroidal_surface ..............................:   2 
+! INFO-     direction ................................................:   678 
+! INFO-     draughting_model .........................................:   9 
+! INFO-     edge_curve ...............................................:   328 
+! INFO-     edge_loop ................................................:   152 
+! INFO-     face_bound ...............................................:   152 
+! INFO-     fill_area_style ..........................................:   1 
+! INFO-     fill_area_style_colour ...................................:   1 
+! INFO-     geometric_representation_context_and_global_uncertainty_a :   1 
+! INFO-     length_unit_and_si_unit ..................................:   1 
+! INFO-     line .....................................................:   208 
+! INFO-     manifold_solid_brep ......................................:   1 
+! INFO-     mapped_item ..............................................:   9 
+! INFO-     mechanical_design_and_draughting_relationship ............:   8 
+! INFO-     mechanical_design_geometric_presentation_representation ..:   1 
+! INFO-     oriented_edge ............................................:   656 
+! INFO-     planar_box ...............................................:   8 
+! INFO-     plane ....................................................:   56 
+! INFO-     plane_angle_unit_and_si_unit .............................:   1 
+! INFO-     presentation_style_assignment ............................:   1 
+! INFO-     product ..................................................:   1 
+! INFO-     product_category .........................................:   1 
+! INFO-     product_context ..........................................:   1 
+! INFO-     product_definition .......................................:   1 
+! INFO-     product_definition_context ...............................:   1 
+! INFO-     product_definition_formation_with_specified_source .......:   1 
+! INFO-     product_definition_shape .................................:   1 
+! INFO-     product_related_product_category .........................:   1 
+! INFO-     representation_map .......................................:   9 
+! INFO-     shape_definition_representation ..........................:   1 
+! INFO-     shape_representation .....................................:   1 
+! INFO-     shape_representation_relationship ........................:   1 
+! INFO-     si_unit_and_solid_angle_unit .............................:   1 
+! INFO-     styled_item ..............................................:   1 
+! INFO-     surface_side_style .......................................:   1 
+! INFO-     surface_style_fill_area ..................................:   1 
+! INFO-     surface_style_usage ......................................:   1 
+! INFO-     toroidal_surface .........................................:   2 
+! INFO-     uncertainty_measure_with_unit ............................:   1 
+! INFO-     vector ...................................................:   208 
+! INFO-     vertex_point .............................................:   222 
+! INFO-     view_volume ..............................................:   8 
+! INFO-                                                                  ------- 
+! INFO-     Total                                                         4005 
+! INFO-      
+! INFO-     End of Translation: 10-FEB-2022  5:34:35 PM
+! INFO-      

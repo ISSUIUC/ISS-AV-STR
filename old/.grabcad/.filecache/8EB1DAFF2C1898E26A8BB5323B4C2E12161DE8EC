@@ -1,0 +1,50 @@
+﻿
+Unigraphics NX V1926 / 2D Exchange
+
+Reading part: C:\Users\gmbtf\OneDrive\Desktop\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\4.0\ac-stack-4.0-assembly\components\Inverted Components\AC Base Plate Servo MK4.prt
+
+
+Writing part: C:\Users\gmbtf\AppData\Local\Temp\gmbt156005ABawaa.prt
+
+Elapsed time   :    0 minutes,  0 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V1926 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Sat Feb 18 18:18:21 2023
+INFO-
+STATUS-		Converting C:\Users\gmbtf\AppData\Local\Temp\gmbt156005ABawaa.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\gmbtf\AppData\Local\Temp\gmbt156005ABawaa.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	24
+SUMMARY-	Circle ...................................:	20
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	44
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\gmbtf\OneDrive\Desktop\GrabCAD\Spaceshot\manufacturing\TARS-4.0-AC-Stack\AC Base Plate Servo MK4.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	20
+SUMMARY-	Line .....................................:	24
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	50
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sat Feb 18 18:18:21 2023
+INFO-		Translation CPU time: 0 m, 1 sINFO-

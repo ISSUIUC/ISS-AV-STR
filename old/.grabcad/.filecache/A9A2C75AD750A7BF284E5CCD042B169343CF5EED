@@ -1,0 +1,46 @@
+﻿
+Unigraphics NX V1926 / 2D Exchange
+
+Reading part: C:\Users\Richeek\AppData\Local\Temp\Rich615097F56vmp.prt
+
+
+Writing part: C:\Users\Richeek\AppData\Local\Temp\Rich615097F56vmo.prt
+
+Elapsed time   :    0 minutes,  0 seconds
+Actual CPU Time:    0 minutes,  1 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V1926 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Wed Jun  8 23:40:19 2022
+INFO-
+STATUS-		Converting C:\Users\Richeek\AppData\Local\Temp\Rich615097F56vmo.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\Richeek\AppData\Local\Temp\Rich615097F56vmo.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	0
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\Richeek\Documents\GrabCAD\Spaceshot\components\lower-section-assembly\components\payload-assembly\manufacturing\payload_horizontal_plate_battery.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Wed Jun  8 23:40:20 2022
+INFO-		Translation CPU time: 0 m, 0 sINFO-

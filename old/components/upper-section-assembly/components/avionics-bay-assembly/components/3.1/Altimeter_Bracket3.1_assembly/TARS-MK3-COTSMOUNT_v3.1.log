@@ -1,0 +1,116 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V1926
+! INFO-      
+! INFO-     Start of Translation: 13-OCT-2022  9:02:43 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\snpan\OneDrive\Desktop\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\3.1\Altimeter_Bracket3.1_assembly\TARS-MK3-COTSMOUNT_v3.1.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      KiCad electronic assembly
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        TARS-MK3-COTSMOUNT_v3.1.step
+! SUMMARY-  Date             2022-10-13T17:18:44
+! SUMMARY-  Author           Pcbnew
+! SUMMARY-  Organization     Kicad
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.6
+! SUMMARY-  Orig_System      KiCad to STEP converter
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:      2
+! SUMMARY-  advanced_face ..............................................:    382
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    219
+! SUMMARY-  b_spline_curve_with_knots ..................................:   2680
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    138
+! SUMMARY-  b_spline_surface_with_knots ................................:    309
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      2
+! SUMMARY-  cartesian_point ............................................:   8888
+! SUMMARY-  circle .....................................................:    130
+! SUMMARY-  closed_shell ...............................................:      4
+! SUMMARY-  context_dependent_shape_representation .....................:     17
+! SUMMARY-  cylindrical_surface ........................................:     65
+! SUMMARY-  definitional_representation ................................:   2206
+! SUMMARY-  direction ..................................................:    799
+! SUMMARY-  edge_curve .................................................:   1103
+! SUMMARY-  edge_loop ..................................................:    521
+! SUMMARY-  face_bound .................................................:    521
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      6
+! SUMMARY-  item_defined_transformation ................................:     17
+! SUMMARY-  length_unit_and_si_unit ....................................:      6
+! SUMMARY-  line .......................................................:    361
+! SUMMARY-  manifold_solid_brep ........................................:      4
+! SUMMARY-  next_assembly_usage_occurrence .............................:     17
+! SUMMARY-  oriented_edge ..............................................:   2206
+! SUMMARY-  pcurve .....................................................:   2206
+! SUMMARY-  plane ......................................................:      6
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      6
+! SUMMARY-  product ....................................................:      6
+! SUMMARY-  product_context ............................................:      6
+! SUMMARY-  product_definition .........................................:      6
+! SUMMARY-  product_definition_context .................................:      6
+! SUMMARY-  product_definition_formation ...............................:      6
+! SUMMARY-  product_definition_shape ...................................:     23
+! SUMMARY-  product_related_product_category ...........................:      6
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     17
+! SUMMARY-  seam_curve .................................................:     65
+! SUMMARY-  shape_representation .......................................:      4
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      6
+! SUMMARY-  surface_curve ..............................................:   1038
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      6
+! SUMMARY-  vector .....................................................:    361
+! SUMMARY-  vertex_point ...............................................:    726
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          25104
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 13-OCT-2022 9:02:43 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 13-OCT-2022  9:02:45 PM
+! INFO-     Filing Part ..: C:\Users\snpan\OneDrive\Desktop\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\3.1\Altimeter_Bracket3.1_assembly\COMPOUND98
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 13-OCT-2022  9:02:46 PM
+! INFO-     Filing Part ..: C:\Users\snpan\OneDrive\Desktop\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\3.1\Altimeter_Bracket3.1_assembly\505575027188
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 13-OCT-2022  9:02:46 PM
+! INFO-     Filing Part ..: C:\Users\snpan\OneDrive\Desktop\Documents\GrabCAD\Spaceshot\components\upper-section-assembly\components\avionics-bay-assembly\components\3.1\Altimeter_Bracket3.1_assembly\TARS-MK3-COTSMOUNT_v3.1.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    15
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         2
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         2
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 13-OCT-2022  9:02:46 PM
+! INFO-      

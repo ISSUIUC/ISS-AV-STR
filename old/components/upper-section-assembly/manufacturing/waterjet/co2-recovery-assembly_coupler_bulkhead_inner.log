@@ -1,0 +1,52 @@
+﻿
+Unigraphics NX V1926 / 2D Exchange
+
+Reading part: D:\Documents\Clubs\ISS\spaceshot\grabcad\components\upper-section-assembly\components\avionics-bay-assembly\components\4.0\co2-recovery-4.0-assembly\components\co2-recovery-assembly_coupler_bulkhead_metric.prt
+
+
+Writing part: C:\Users\liamn\AppData\Local\Temp\liam3710DB2Cawbz.prt
+
+Elapsed time   :    0 minutes,  1 seconds
+Actual CPU Time:    0 minutes,  1 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V1926 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Sat Feb 18 18:17:59 2023
+INFO-
+STATUS-		Converting C:\Users\liamn\AppData\Local\Temp\liam3710DB2Cawbz.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\liamn\AppData\Local\Temp\liam3710DB2Cawbz.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	24
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Circle ...................................:	57
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	82
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: D:\Documents\Clubs\ISS\spaceshot\grabcad\components\upper-section-assembly\manufacturing\waterjet\co2-recovery-assembly_coupler_bulkhead_inner.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	57
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	24
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	88
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sat Feb 18 18:18:00 2023
+INFO-		Translation CPU time: 0 m, 1 sINFO-
