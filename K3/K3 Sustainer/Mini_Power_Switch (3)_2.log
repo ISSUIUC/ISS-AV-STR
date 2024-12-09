@@ -1,0 +1,83 @@
+﻿IGES to UG
+! INFO-     NX V2306.9102 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 6-DEC-2024  3:29:36 PM
+! INFO-      
+! STATUS-   Converting Part: U:\Desktop\Mini_Power_Switch (3).IGS
+! INFO-     SolidWorks IGES file using analytic representation for surfaces         
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  Line (110/0).................:  2228
+! SUMMARY-  Circular Arc (100/0).........:   540
+! SUMMARY-  B-Spline Curve (126/0-4).....:  2471
+! SUMMARY-  Composite Curve (102/0)......:   972
+! SUMMARY-  Surface of Rev (120/0).......:   151
+! SUMMARY-  B-Spline Surface (128/0-9)...:   303
+! SUMMARY-  Curve of Surface (142/0).....:   486
+! SUMMARY-  Trimmed Surface (144/0)......:   454
+! SUMMARY-  Trans Matrix (124/0,1,10,12).:   467
+! SUMMARY-  Subfigure Definition (308/0).:     4
+! SUMMARY-  Subfigure Instance (408/0)...:     5
+! SUMMARY-  Color Definition (314/0,1)...:    16
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           8097
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 6-DEC-2024 3:29:36 PM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-DEC-2024  3:29:36 PM
+! INFO-     Filing Part ..: U:\Desktop\Avionics Structures\switch half R1.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   310
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            310
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-DEC-2024  3:29:38 PM
+! INFO-     Filing Part ..: U:\Desktop\Avionics Structures\copper tab_through hole
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    20
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             20
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-DEC-2024  3:29:38 PM
+! INFO-     Filing Part ..: U:\Desktop\Avionics Structures\copper tab
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    20
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             20
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-DEC-2024  3:29:38 PM
+! INFO-     Filing Part ..: U:\Desktop\Avionics Structures\SHCS 4-40x375_HX-SHCS 0.112-40x0.375x0.375-S
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   104
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            104
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-DEC-2024  3:29:39 PM
+! INFO-     Filing Part ..: U:\Desktop\Avionics Structures\Mini_Power_Switch (3)_2.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     8
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! INFO-      
+! INFO-     End of Translation: 6-DEC-2024  3:29:39 PM
+! INFO-      
