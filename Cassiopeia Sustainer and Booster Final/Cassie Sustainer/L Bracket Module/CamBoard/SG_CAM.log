@@ -1,0 +1,1288 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V2306.9102
+! INFO-      
+! INFO-     Start of Translation: 8-DEC-2024  5:20:22 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\sethb5\Downloads\SG_CAM.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      KiCad electronic assembly
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        SG_CAM.step
+! SUMMARY-  Date             2024-12-06T17:28:29
+! SUMMARY-  Author           Pcbnew
+! SUMMARY-  Organization     Kicad
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.8
+! SUMMARY-  Orig_System      KiCad to STEP converter
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:     19
+! SUMMARY-  advanced_face ..............................................:   4468
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_2d .........................................:    681
+! SUMMARY-  axis2_placement_3d .........................................:   5865
+! SUMMARY-  b_spline_curve_with_knots ..................................:    853
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    728
+! SUMMARY-  b_spline_surface_with_knots ................................:    184
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      6
+! SUMMARY-  brep_with_voids ............................................:      1
+! SUMMARY-  cartesian_point ............................................:  56479
+! SUMMARY-  circle .....................................................:   2140
+! SUMMARY-  closed_shell ...............................................:    197
+! SUMMARY-  conical_surface ............................................:     22
+! SUMMARY-  context_dependent_shape_representation .....................:    120
+! SUMMARY-  cylindrical_surface ........................................:    714
+! SUMMARY-  definitional_representation ................................:  22394
+! SUMMARY-  direction ..................................................:  42274
+! SUMMARY-  edge_curve .................................................:  11197
+! SUMMARY-  edge_loop ..................................................:   4817
+! SUMMARY-  ellipse ....................................................:      7
+! SUMMARY-  face_bound .................................................:   4817
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     52
+! SUMMARY-  item_defined_transformation ................................:    120
+! SUMMARY-  length_unit_and_si_unit ....................................:     52
+! SUMMARY-  line .......................................................:  29863
+! SUMMARY-  manifold_solid_brep ........................................:    195
+! SUMMARY-  next_assembly_usage_occurrence .............................:    120
+! SUMMARY-  oriented_closed_shell ......................................:      1
+! SUMMARY-  oriented_edge ..............................................:  22394
+! SUMMARY-  pcurve .....................................................:  22394
+! SUMMARY-  plane ......................................................:   3536
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     52
+! SUMMARY-  product ....................................................:     52
+! SUMMARY-  product_context ............................................:     52
+! SUMMARY-  product_definition .........................................:     52
+! SUMMARY-  product_definition_context .................................:     52
+! SUMMARY-  product_definition_formation ...............................:     52
+! SUMMARY-  product_definition_shape ...................................:    172
+! SUMMARY-  product_related_product_category ...........................:     52
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    120
+! SUMMARY-  seam_curve .................................................:    119
+! SUMMARY-  shape_representation .......................................:     33
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     52
+! SUMMARY-  spherical_surface ..........................................:      6
+! SUMMARY-  surface_curve ..............................................:  11078
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     52
+! SUMMARY-  vector .....................................................:  29863
+! SUMMARY-  vertex_point ...............................................:   7276
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         285846
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 8-DEC-2024 5:20:23 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:28 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\CAM-MK2_PCB
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:28 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\RUX0012A_ASM
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:28 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\ABM10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\C_1206_3216Metric278706
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\SOT_23_8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\L_Wuerth_MAPI_4030
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\VSSOP_8_23x2mm_P05mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\RDX7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    10
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\CQ assembly
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    10
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\REL0014B_ASM
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    15
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\SOIC_14_39x87mm_P127mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\C_0805_2012Metric186046
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\TPS61288LRQQR
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\D_SOD_323
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\2200980271wbm000_01
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\2200980371wbm000_01
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\C_0603_1608Metric152175
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\ESP32-S3-MINI-1U-N8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    80
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             80
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\PinHeader_1x03_P100mm_Vertical
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\JST_B3B_PH_K
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\2200980571wbm000_01
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\PinSocket_1x03_P254mm_Vertical
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\AT-0927-TT-6-R
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\USB_C_Receptacle_16P_TopMnt_Horizontal_GCT_USB4105-xx-A
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    36
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             36
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\LED_0603_1608Metric2315
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\R_0603_1608Metric431
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\VQFN-HR-RUX0012A
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\C_1206_3216Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\SOT-23-8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\L_Wuerth_MAPI-4030
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\VSSOP-8_2.3x2mm_P0.5mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\QFN-FCMOD-RDX0007A
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\SO-8_3.9x4.9mm_P1.27mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\VQFN-REL0014B
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\SOIC-14_3.9x8.7mm_P1.27mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\C_0805_2012Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\VQFN-HR-RQQ0011A
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\D_SOD-323
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\Molex_Micro-Lock_2200980271_1x02_P1.25mm_Horizontal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\Molex_Micro-Lock_2200980371_1x03_P1.25mm_Horizontal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\C_0603_1608Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\ESP32-S3-MINI-1U
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\PinHeader_1x03_P1.00mm_Vertical
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\Molex_Micro-Lock_2200980571_1x05_P1.25mm_Horizontal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\PinSocket_1x03_P2.54mm_Vertical
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\PUI_AUDIO_AT-0927-TT-6-R
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\LED_0603_1608Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\R_0603_1608Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:20:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\Downloads\SG_CAM_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    95
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             95
+! INFO-      
+! INFO-     Total number of solids input for this translation       :       196
+! INFO-      
+! INFO-     Number of solids created without body validation faults :       196
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 8-DEC-2024  5:20:32 PM
+! INFO-      
+STEP to UG
+! INFO-     NX STEP AP214 - V2306.9102
+! INFO-      
+! INFO-     Start of Translation: 8-DEC-2024  5:25:23 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SG_CAM.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      KiCad electronic assembly
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        SG_CAM.step
+! SUMMARY-  Date             2024-12-06T17:28:29
+! SUMMARY-  Author           Pcbnew
+! SUMMARY-  Organization     Kicad
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.8
+! SUMMARY-  Orig_System      KiCad to STEP converter
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:     19
+! SUMMARY-  advanced_face ..............................................:   4468
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_2d .........................................:    681
+! SUMMARY-  axis2_placement_3d .........................................:   5865
+! SUMMARY-  b_spline_curve_with_knots ..................................:    853
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    728
+! SUMMARY-  b_spline_surface_with_knots ................................:    184
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      6
+! SUMMARY-  brep_with_voids ............................................:      1
+! SUMMARY-  cartesian_point ............................................:  56479
+! SUMMARY-  circle .....................................................:   2140
+! SUMMARY-  closed_shell ...............................................:    197
+! SUMMARY-  conical_surface ............................................:     22
+! SUMMARY-  context_dependent_shape_representation .....................:    120
+! SUMMARY-  cylindrical_surface ........................................:    714
+! SUMMARY-  definitional_representation ................................:  22394
+! SUMMARY-  direction ..................................................:  42274
+! SUMMARY-  edge_curve .................................................:  11197
+! SUMMARY-  edge_loop ..................................................:   4817
+! SUMMARY-  ellipse ....................................................:      7
+! SUMMARY-  face_bound .................................................:   4817
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     52
+! SUMMARY-  item_defined_transformation ................................:    120
+! SUMMARY-  length_unit_and_si_unit ....................................:     52
+! SUMMARY-  line .......................................................:  29863
+! SUMMARY-  manifold_solid_brep ........................................:    195
+! SUMMARY-  next_assembly_usage_occurrence .............................:    120
+! SUMMARY-  oriented_closed_shell ......................................:      1
+! SUMMARY-  oriented_edge ..............................................:  22394
+! SUMMARY-  pcurve .....................................................:  22394
+! SUMMARY-  plane ......................................................:   3536
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     52
+! SUMMARY-  product ....................................................:     52
+! SUMMARY-  product_context ............................................:     52
+! SUMMARY-  product_definition .........................................:     52
+! SUMMARY-  product_definition_context .................................:     52
+! SUMMARY-  product_definition_formation ...............................:     52
+! SUMMARY-  product_definition_shape ...................................:    172
+! SUMMARY-  product_related_product_category ...........................:     52
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    120
+! SUMMARY-  seam_curve .................................................:    119
+! SUMMARY-  shape_representation .......................................:     33
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     52
+! SUMMARY-  spherical_surface ..........................................:      6
+! SUMMARY-  surface_curve ..............................................:  11078
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     52
+! SUMMARY-  vector .....................................................:  29863
+! SUMMARY-  vertex_point ...............................................:   7276
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         285846
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 8-DEC-2024 5:25:24 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\CAM-MK2_PCB298928
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\RUX0012A_ASM290769
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\ABM10280785
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SOT_23_8268038
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:29 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\L_Wuerth_MAPI_4030266030
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\VSSOP_8_23x2mm_P05mm255069
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\RDX7235235
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    10
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\CQ assembly221822
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    10
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\REL0014B_ASM205408
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    15
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SOIC_14_39x87mm_P127mm188075
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\TPS61288LRQQR176786
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\D_SOD_323172581
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:30 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\2200980271wbm000_01164260
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\2200980371wbm000_01154204
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\ESP32-S3-MINI-1U-N890993
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    80
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             80
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\PinHeader_1x03_P100mm_Vertical86145
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\JST_B3B_PH_K77511
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\2200980571wbm000_0163955
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\PinSocket_1x03_P254mm_Vertical56917
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:31 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\AT-0927-TT-6-R49971
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\USB_C_Receptacle_16P_TopMnt_Horizontal_GCT_USB4105-xx-A5917
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    36
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             36
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\VQFN-HR-RUX0012A290746
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm280762
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\C_1206_3216Metric278683
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SOT-23-8268015
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\L_Wuerth_MAPI-4030266007
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\VSSOP-8_2.3x2mm_P0.5mm255046
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\QFN-FCMOD-RDX0007A235212
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:32 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SO-8_3.9x4.9mm_P1.27mm221799
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\VQFN-REL0014B205385
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SOIC-14_3.9x8.7mm_P1.27mm188052
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\C_0805_2012Metric186023
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\VQFN-HR-RQQ0011A176763
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\D_SOD-323172558
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\Molex_Micro-Lock_2200980271_1x02_P1.25mm_Horizontal164237
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\Molex_Micro-Lock_2200980371_1x03_P1.25mm_Horizontal154181
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\C_0603_1608Metric152152
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\ESP32-S3-MINI-1U90970
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\PinHeader_1x03_P1.00mm_Vertical86122
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical77488
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\Molex_Micro-Lock_2200980571_1x05_P1.25mm_Horizontal63932
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:33 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\PinSocket_1x03_P2.54mm_Vertical56894
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:34 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\PUI_AUDIO_AT-0927-TT-6-R49948
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:34 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal5894
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:34 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\LED_0603_1608Metric2292
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:34 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\R_0603_1608Metric408
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 8-DEC-2024  5:25:34 PM
+! INFO-     Filing Part ..: C:\Users\sethb5\OneDrive - University of Illinois - Urbana\Spaceshot\CamBoard\SG_CAM_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    95
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             95
+! INFO-      
+! INFO-     Total number of solids input for this translation       :       191
+! INFO-      
+! INFO-     Number of solids created without body validation faults :       191
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 8-DEC-2024  5:25:34 PM
+! INFO-      
+STEP to UG
+! INFO-     NX STEP AP214 - V2306.9102
+! INFO-      
+! INFO-     Start of Translation: 7-SEP-2025  12:05:52 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\ryanav3\OneDrive - University of Illinois - Urbana\Onboarding Rocket CAD\Sustainer\Cam Mount Module\CamBoard\SG_CAM.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      KiCad electronic assembly
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        SG_CAM.step
+! SUMMARY-  Date             2024-12-06T17:28:29
+! SUMMARY-  Author           Pcbnew
+! SUMMARY-  Organization     Kicad
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.8
+! SUMMARY-  Orig_System      KiCad to STEP converter
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:     19
+! SUMMARY-  advanced_face ..............................................:   4468
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_2d .........................................:    681
+! SUMMARY-  axis2_placement_3d .........................................:   5865
+! SUMMARY-  b_spline_curve_with_knots ..................................:    853
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    728
+! SUMMARY-  b_spline_surface_with_knots ................................:    184
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      6
+! SUMMARY-  brep_with_voids ............................................:      1
+! SUMMARY-  cartesian_point ............................................:  56479
+! SUMMARY-  circle .....................................................:   2140
+! SUMMARY-  closed_shell ...............................................:    197
+! SUMMARY-  conical_surface ............................................:     22
+! SUMMARY-  context_dependent_shape_representation .....................:    120
+! SUMMARY-  cylindrical_surface ........................................:    714
+! SUMMARY-  definitional_representation ................................:  22394
+! SUMMARY-  direction ..................................................:  42274
+! SUMMARY-  edge_curve .................................................:  11197
+! SUMMARY-  edge_loop ..................................................:   4817
+! SUMMARY-  ellipse ....................................................:      7
+! SUMMARY-  face_bound .................................................:   4817
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     52
+! SUMMARY-  item_defined_transformation ................................:    120
+! SUMMARY-  length_unit_and_si_unit ....................................:     52
+! SUMMARY-  line .......................................................:  29863
+! SUMMARY-  manifold_solid_brep ........................................:    195
+! SUMMARY-  next_assembly_usage_occurrence .............................:    120
+! SUMMARY-  oriented_closed_shell ......................................:      1
+! SUMMARY-  oriented_edge ..............................................:  22394
+! SUMMARY-  pcurve .....................................................:  22394
+! SUMMARY-  plane ......................................................:   3536
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     52
+! SUMMARY-  product ....................................................:     52
+! SUMMARY-  product_context ............................................:     52
+! SUMMARY-  product_definition .........................................:     52
+! SUMMARY-  product_definition_context .................................:     52
+! SUMMARY-  product_definition_formation ...............................:     52
+! SUMMARY-  product_definition_shape ...................................:    172
+! SUMMARY-  product_related_product_category ...........................:     52
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    120
+! SUMMARY-  seam_curve .................................................:    119
+! SUMMARY-  shape_representation .......................................:     33
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     52
+! SUMMARY-  spherical_surface ..........................................:      6
+! SUMMARY-  surface_curve ..............................................:  11078
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     52
+! SUMMARY-  vector .....................................................:  29863
+! SUMMARY-  vertex_point ...............................................:   7276
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         285846
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 7-SEP-2025 12:05:53 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 7-SEP-2025  12:05:54 AM
+! INFO-     Filing Part ..: C:\Users\ryanav3\OneDrive - University of Illinois - Urbana\Onboarding Rocket CAD\Sustainer\Cam Mount Module\CamBoard\2200980271wbm000_01
+! ERROR-    Unable to archive C:\Users\ryanav3\OneDrive - University of Illinois - Urbana\Onboarding Rocket CAD\Sustainer\Cam Mount Module\CamBoard\2200980271wbm000_01:
+! ERROR-     
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 7-SEP-2025  12:05:54 AM
+! INFO-     Filing Part ..: C:\Users\ryanav3\OneDrive - University of Illinois - Urbana\Onboarding Rocket CAD\Sustainer\Cam Mount Module\CamBoard\SG_CAM_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    95
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             95
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         1
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         1
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 7-SEP-2025  12:05:54 AM
+! INFO-      
